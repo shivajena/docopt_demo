@@ -17,5 +17,5 @@ def main(var):
     print(type(var))
     print(var["<arg_op>"])
     
-if __name__ ==  "__main__":
-    main(opt) 
+if __name__ == "__main__":
+    main(opt)
